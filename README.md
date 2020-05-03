@@ -7,9 +7,9 @@ please enter nmap previous_param: like -sP -sY :   user input(-sP or blank)
 
 please enter nmap suffix_param : like -p1-255 :    user input(-time or blank)
 
-input first number of adress :                     user input(1-255)  #don't ignore dash
+input first number of adress :                     user input(1-255)  #never ignore dash
 
-input second number of adress :                    user input(0-255)  #don't ignore dash
+input second number of adress :                    user input(0-255)  #never ignore dash
 
 ……third and forth is same with second
 
