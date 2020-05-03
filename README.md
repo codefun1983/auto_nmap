@@ -5,7 +5,7 @@
 using:
 please enter nmap previous_param: like -sP -sY :   user input(-sP or blank)
 
-please enter nmap suffix_param : like -p1-255 :    user input(-time or blank)
+please enter nmap suffix_param : like -p1-255 :    user input(--host-timeout or blank)
 
 input first number of adress :                     user input(1-255)  #never ignore dash
 
