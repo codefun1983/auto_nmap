@@ -11,7 +11,7 @@ input first number of adress :                     user input(1-255)  #never ign
 
 input second number of adress :                    user input(0-255)  #never ignore dash
 
-……third and forth is same with second
+……third and forth is same  second
 
 if first = 1-2 , second = 1-2 , third = 1-2 , forth=1-2 
 
